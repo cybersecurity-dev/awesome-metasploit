@@ -1,4 +1,9 @@
 <div align="center">
+    <p align="center">
+        <a href="https://wikipedia.org/wiki/Metasploit">
+          <img width="35%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Metasploit_logo.png" />
+        </a>
+    </p>
 
 # **`Awesome`** [Metasploit](https://www.metasploit.com/) Framework [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
