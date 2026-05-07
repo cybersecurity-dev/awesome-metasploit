@@ -30,6 +30,6 @@ You can access the my awesome lists [here](https://cyberthreatdefence.com/my_awe
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/awesome-metasploit/awesome-pytorch/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/awesome-metasploit/graphs/contributors)!
 
 [🔼 Back to top](#awesome-metasploit-framework-)
